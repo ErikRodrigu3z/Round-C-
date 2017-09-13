@@ -1,0 +1,9 @@
+c:\users\erik\documents\visual studio 2017\Projects\pruebas\pruebas\bin\Debug\netcoreapp1.1\pruebas.deps.json
+c:\users\erik\documents\visual studio 2017\Projects\pruebas\pruebas\bin\Debug\netcoreapp1.1\pruebas.runtimeconfig.json
+c:\users\erik\documents\visual studio 2017\Projects\pruebas\pruebas\bin\Debug\netcoreapp1.1\pruebas.runtimeconfig.dev.json
+c:\users\erik\documents\visual studio 2017\Projects\pruebas\pruebas\bin\Debug\netcoreapp1.1\pruebas.dll
+c:\users\erik\documents\visual studio 2017\Projects\pruebas\pruebas\bin\Debug\netcoreapp1.1\pruebas.pdb
+c:\users\erik\documents\visual studio 2017\Projects\pruebas\pruebas\obj\Debug\netcoreapp1.1\pruebas.csprojResolveAssemblyReference.cache
+c:\users\erik\documents\visual studio 2017\Projects\pruebas\pruebas\obj\Debug\netcoreapp1.1\pruebas.AssemblyInfo.cs
+c:\users\erik\documents\visual studio 2017\Projects\pruebas\pruebas\obj\Debug\netcoreapp1.1\pruebas.dll
+c:\users\erik\documents\visual studio 2017\Projects\pruebas\pruebas\obj\Debug\netcoreapp1.1\pruebas.pdb
